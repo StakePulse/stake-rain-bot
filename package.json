@@ -1,0 +1,13 @@
+{
+  "name": "stake-rain-bot",
+  "version": "6.0.0",
+  "description": "StakePulse Bot + Bridge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.20.1"
+  }
+}
